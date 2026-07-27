@@ -1,0 +1,9 @@
+{
+  "name": "telegram-gallery-forwarder",
+  "version": "1.0.0",
+  "description": "Gallery photos to Telegram bot",
+  "main": "api/send-photos.js",
+  "engines": {
+    "node": "20.x"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/send-photos.js": {
+      "runtime": "nodejs20.x"
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
